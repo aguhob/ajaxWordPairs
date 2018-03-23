@@ -1,1 +1,2 @@
-# ajaxWordPairs
+# jQueryPractice
+Some jQuery Practice Code
